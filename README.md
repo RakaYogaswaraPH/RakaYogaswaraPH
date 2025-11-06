@@ -1,12 +1,14 @@
 <!-- Anime Banner -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1esu38RBXHG4sHwObaLVMla569aevf6-4" alt="anime banner" width="100%" />
+  <img src="https://drive.google.com/uc?export=view&id=1I2aFk826fQWzVKJGwZWwBLv24Y3lKW5P" alt="anime banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Raka Yogaswara</h1>
 
 <p align="center">
-  <em>"Just a guy who loves turning ideas into elegant web experiences ✨"</em>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Anime+Enthusiast;Love+to+Build+and+Design+Websites;Clean+Code+%26+Good+Coffee+%3D+Perfection" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -28,15 +30,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raka-yogaswara&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=raka-yogaswara&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🌸 A Little More
 
 <p align="center">
@@ -50,5 +43,5 @@
 ---
 
 <p align="center">
-  <sub>© 2025 Raka Yogaswara — Crafted with ❤️ and a touch of anime vibes.</sub>
+  <sub>© 2025 Raka Yogaswara PH</sub>
 </p>
