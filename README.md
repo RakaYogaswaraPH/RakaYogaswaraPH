@@ -15,10 +15,8 @@
 
 ### 🧠 About Me
 - 💻 Passionate Frontend & Backend Developer  
-- 🎨 Love building clean, modern, and responsive web interfaces  
-- 🌱 Currently exploring more about **Node.js** and **API development**  
+- 🎨 Love building clean, modern, and responsive web interfaces    
 - ☕ Fuelled by coffee and lo-fi beats while coding  
-- 🧩 Open to collaboration on creative projects  
 
 ---
 
