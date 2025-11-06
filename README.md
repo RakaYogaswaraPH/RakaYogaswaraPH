@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+Anime+Enthusiast;Love+to+Build+and+Design+Websites;Clean+Code+%26+Good+Coffee+%3D+Perfection" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Web+Developer+%7C+IDOLM@STER+Fans;Love+to+Build+and+Design+Websites;" alt="Typing SVG" />
   </a>
 </p>
 
@@ -37,8 +37,11 @@
 </p>
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me!-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rakayogaswara11@email.com&su=Job%20Opportunity&body=Hello,%20I%20would%20like%20to%20connect%20and%20discuss%20further." target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me!-blue?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
+
 
 ---
 
